@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "no" ?>
+<root>
+	<LoadTimeoutSec>120</LoadTimeoutSec>
+	<LoginName>user441</LoginName>
+	<LoginTimeoutSec>120</LoginTimeoutSec>
+	<Password>441441</Password>
+	<RemdExeFileName>c:\somiac\remd\remd.exe</RemdExeFileName>
+	<RemdStartParams>NoSplash</RemdStartParams>
+	<SendEnabled>true</SendEnabled>
+	<SendTimeoutSec>6000</SendTimeoutSec>
+	<SignTimeoutSec>6000</SignTimeoutSec>
+	<SignEnabled>true</SignEnabled>
+</root>
